@@ -1,0 +1,16 @@
+{
+"companyName": "Zoozle Zone EDU",
+"productName": "Sydneys_Scientific_Endeavor_DEMO",
+"productVersion": "1.0",
+"dataUrl": "SSE_Demo.data.unityweb",
+"wasmCodeUrl": "SSE_Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "SSE_Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
